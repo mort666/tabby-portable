@@ -11,4 +11,4 @@ on:
 
 jobs:
   fix:
-    uses: portapps/.github/.github/workflows/app-gosum.yml@master
+    uses: mort666/.github/.github/workflows/app-gosum.yml@master

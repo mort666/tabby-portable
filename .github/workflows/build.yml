@@ -12,4 +12,4 @@ env:
 
 jobs:
   build:
-    uses: portapps/.github/.github/workflows/app-build.yml@master
+    uses: mort666/.github/.github/workflows/app-build.yml@master

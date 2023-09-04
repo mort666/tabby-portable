@@ -9,6 +9,8 @@
   <a href="https://www.paypal.me/crazyws"><img src="https://img.shields.io/badge/donate-paypal-00457c.svg?logo=paypal&style=flat-square" alt="Donate Paypal"></a>
 </p>
 
+**This is a more bleeding edge version of the Portapps version of Tabby™ portable, generally we will try to have the latest version available linked into the Portapps ecosystem.**
+
 ## Notice of Non-Affiliation and Disclaimer
 
 Portapps is not affiliated, associated, authorized, endorsed by, or in any way officially connected with Tabby™,

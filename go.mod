@@ -2,7 +2,7 @@ module github.com/portapps/tabby-portable
 
 go 1.22
 
-require github.com/portapps/portapps/v3 v3.10.0
+require github.com/portapps/portapps/v3 v3.11.0
 
 require (
 	github.com/akavel/rsrc v0.10.2 // indirect
@@ -13,6 +13,6 @@ require (
 	github.com/mitchellh/mapstructure v1.5.0 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/rs/zerolog v1.33.0 // indirect
-	golang.org/x/sys v0.21.0 // indirect
+	golang.org/x/sys v0.24.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
